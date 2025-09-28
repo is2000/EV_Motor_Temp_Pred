@@ -52,7 +52,7 @@ This project predicts the temperature of an electric vehicle (EV) motor using de
 
 ### Usage
 
-1.  Open the `final_task.ipynb` notebook in your Jupyter environment.
+1.  Open the `final_task_colab3.ipynb` notebook in your Jupyter environment.
 
 2.  Run the cells sequentially to see the model training, evaluation, and results.
 
