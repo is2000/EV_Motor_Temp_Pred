@@ -4,9 +4,7 @@
 
 * Julia
 
-* LSTM (Long Short-Term Memory)
-
-* CNN (Convolutional Neural Network)
+* Feed Forward Neural Network (FFNN)
 
 * Data Science
 
@@ -14,7 +12,7 @@ This project predicts the temperature of an electric vehicle (EV) motor using de
 
 ### Project Overview
 
-* Developed a hybrid LSTM + CNN model to predict motor temperatures from time-series sensor data.
+* Developed a FFNN model with Autoregressive Rollout to predict motor temperatures from time-series sensor data.
 
 * Preprocessed and structured dynamic motor data to improve model performance.
 
